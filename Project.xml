@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="FNF' Psych Engine 0.2.2" file="PsychEngine" packageName="com.shadowmario.psychengine022" package="com.shadowmario.psychengine022" main="Main" version="0.2.7" company="ShadowMario" />
+	<app title="Friday Night Funkin': Sonic Engine" file="SonicEngine" packageName="me.sega.sonicengine" package="me.sega.sonicengine" main="Main" version="0.2.7" company="Brenninho" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />
